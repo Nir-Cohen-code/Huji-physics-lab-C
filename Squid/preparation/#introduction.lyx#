@@ -1,0 +1,1228 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children no
+\language american
+\language_package default
+\inputencoding utf8
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008080
+\end_index
+\leftmargin 2.54cm
+\topmargin 2.54cm
+\rightmargin 2.54cm
+\bottommargin 2.54cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content true
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\html_math_img_scale 1.1
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\lang hebrew
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "20pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing double
+\align center
+
+\series bold
+\size huge
+\lang hebrew
+מעבדה ג
+\numeric on
+1
+\numeric off
+ | קולוקוויום
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang hebrew
+שם:
+ ליאנה צאגין,
+ ניר כהן 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang hebrew
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+today
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+\begin_inset Formula 
+\[
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+א.
+ אפקט מייסנר מתאר את כך שכשמקררים על מוליך בנוכחות שדה מגנטי,
+ העל מוליך דוחה את השדה המנטי החוצה כאשר עוברים את הטמפרטורה הקריטית.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+אם החומר סתם מוליך ללא התנגדות אז חלק מהשטף היה נלכד בתוכו ולא מתאפס.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ב.
+ טמפ קריטית.
+ מעליה ההתנגדות מתנהגת באופן לינארי לטמפרטורה,
+ ומתחתיה ההתנגדות דועכת מהר לאפס,
+ ואפקט מייסנר נכנס לפעולה.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+###צריך דוגמה למתכת על מוליכה.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ג.
+\begin_inset Formula 
+\[
+\vec{E}=\frac{\partial}{\partial t}\left(\Lambda\vec{J}_{s}\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+מראה שהשינוי בצפיפות הזרם תלוי רק בשדה,
+ והשדה מאיץ את הזרם ולא רק משמר אותו.
+ כלומר אם אין שדה הזרם ימשיך לזרום ללא התנגדות.
+\begin_inset Formula 
+\[
+\vec{h}=-c\vec{\nabla}\times\left(\Lambda\vec{J}_{s}\right)
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\Lambda=\frac{4\pi\lambda^{2}}{c^{2}}=\frac{m}{n_{s}e^{2}}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\nabla^{2}\vec{h}=\frac{\vec{h}}{\lambda^{2}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+בשילוב המשוואה השנייה בשילוב עם משוואת מקסוול מראה שהשדה דועך אקספוננציאלית בשפה עם עומק חדירה 
+\begin_inset Formula $\lambda$
+\end_inset
+
+.
+ כלומר אפקט מייסנר.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ד.
+ מתקבלת המשוואה
+\begin_inset Formula 
+\[
+h\left(x\right)=h\left(0\right)e^{-\frac{x}{\lambda}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ה
+\lang american
+london penetration depth
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+הוא בדיוק עומק החדירה 
+\begin_inset Formula $\lambda$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ה.
+ נושאי המטען הם זוגות קופר,
+ כלומר זוגות אלקטרונים.
+ הם מוחזקים ביחד מכוחות שמפעילים היונים בסריג,
+ שניתנים לתיאור עם פונונים.
+ אלקטרון מושך אליו יונים,
+ שבתורם מושכים אלקטרון נוסף.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ו.
+ ה
+\lang american
+energy gap
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+הוא האנרגיה המינימלית הנדרשת כדי לפרק זוג קופר.
+ היא מחושבת על ידי
+\begin_inset Formula 
+\[
+E_{g}=2\Delta\left(T\right)
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\Delta\left(T_{c}\right)=0,\Delta\left(0\right)=1.764kT_{c}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+\lang hebrew
+גינזבורג לנדאו
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+משתמשת בפונקצייה 
+\begin_inset Formula $\psi$
+\end_inset
+
+ המתארת את צפיפות נושאי המטען
+\begin_inset Formula 
+\[
+n_{s}=\left|\psi\left(x\right)\right|^{2}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+הייתרונות הם שהן לא לוקאליות,
+ ומאפשרות אפקטים לא לינאריים המשפיעים על 
+\begin_inset Formula $n_{s}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ה
+\lang american
+GL coherence length
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula 
+\[
+\xi\left(T\right)=\frac{\hbar}{\sqrt{2m^{*}\alpha\left(T\right)}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+הוא פרמטר המתאר את האורך המינמלי לאורכו 
+\begin_inset Formula $\psi$
+\end_inset
+
+ יכולה להשתנות או להתאושש.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+בעל מוליכים טהורים קלאסיים
+\begin_inset Formula 
+\[
+\lambda=500Angstrom,\xi=3000Angstrom
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+היחס
+\begin_inset Formula 
+\[
+\kappa=\frac{\lambda}{\xi}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+יהיה 
+\begin_inset Formula $\kappa\ll1$
+\end_inset
+
+ בעל מולכים קלאסיים,
+ אבל בעל מוליכים מהסוג השני נקבל
+\begin_inset Formula 
+\[
+\kappa>\frac{1}{\sqrt{2}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+בהם מקבלים קוונטות של שטף מגנטי במערבולות
+\begin_inset Formula 
+\[
+\Phi_{0}=\frac{hc}{2e}=2.07\cdot10^{-7}G-cm^{2}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+מכך ש
+\begin_inset Formula $\psi=\left|\psi\right|e^{i\phi}$
+\end_inset
+
+ מקבל ערך יחיד,
+ אנו מסיקים שבאינטגרל על מסלול סגור הפאזה חייבת להיות קפיצה של 
+\begin_inset Formula $2\pi$
+\end_inset
+
+ ,
+ כלומר
+\begin_inset Formula 
+\[
+\oint\nabla\phi ds=2\pi n
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+משוואת 
+\begin_inset Formula $GL$
+\end_inset
+
+ היא
+\begin_inset Formula 
+\[
+\boldsymbol{J}=\frac{e^{*}}{m^{*}}\left|\psi\right|^{2}\left(\hbar\boldsymbol{\nabla}\phi-\frac{e^{*}}{c}\boldsymbol{A}\right)=e^{*}\left|\psi\right|^{2}\boldsymbol{v_{s}}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{1}{m^{*}}\hbar\boldsymbol{\nabla}\phi=\boldsymbol{v_{s}}+\frac{e^{*}}{m^{*}c}\boldsymbol{A}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\boldsymbol{\nabla}\phi=\frac{m^{*}}{\hbar}\boldsymbol{v_{s}}+\frac{e^{*}}{\hbar c}\boldsymbol{A}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+נציב בתנאי הקוונטיזציה
+\begin_inset Formula 
+\[
+\oint\left(\frac{m^{*}}{\hbar}\boldsymbol{v_{s}}+\frac{e^{*}}{\hbar c}\boldsymbol{A}\right)ds=2\pi n
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{m^{*}}{\hbar}\oint\boldsymbol{v_{s}}ds+\frac{e^{*}}{\hbar c}\oint\boldsymbol{A}ds=2\pi n
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{m^{*}}{\hbar}\oint\boldsymbol{v_{s}}ds+\frac{e^{*}}{\hbar c}\Phi=2\pi n
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{m^{*}c}{e^{*}}\oint\boldsymbol{v_{s}}ds+\Phi=\frac{nhc}{e^{*}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+אך הביטוי בצד שמאל הוא ההגדרה לפלאקסואיד
+\begin_inset Formula 
+\[
+\Phi^{\prime}=\frac{nhc}{e^{*}}=n\Phi_{0}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+\lang hebrew
+גוזפסון ו
+\lang american
+Squid
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+צומת גוזפסון היא מערכת שבה יש שני על מוליכים המופרדים עם חומר אחר,
+ שיכול להיות מבודד,על מוליך חלש,
+ מוליך רגיל או הגבלה.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+מתאפשרת זרימה עם מתח אפס,
+ כאשר הזרם הוא
+\begin_inset Formula 
+\[
+I_{s}=I_{c}\sin\Delta\phi
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+כאשר הפרש הפאזה הוא בין העל מוליכים משני הצדדים של המבודד (של 
+\begin_inset Formula $\psi$
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+\begin_inset Formula $I_{c}$
+\end_inset
+
+ הוא הזרם המקסימלי שהצומת יכולה לתמוך בו.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+אם הפרש המתח אינו אפס מתקיים
+\begin_inset Formula 
+\[
+\frac{d}{dt}\Delta\phi=\frac{2eV}{\hbar}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ואז יהיה זרם חילופין  עם תדירות
+\begin_inset Formula 
+\[
+\nu=\frac{2eV}{h}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+מודל 
+\begin_inset Formula $RCSJ$
+\end_inset
+
+ שהוא
+\begin_inset Formula 
+\[
+Resistively\ and\ capccitively\ shunted\ junciton
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+מודל צומת מצומד התנגדותית וקיבולית.
+ מודל המתאר צומת גוזפסון עם מתח על ידי המשוואה של 
+\begin_inset Formula $AC$
+\end_inset
+
+,
+ ההתנגדות של אקלטרונים רגילים שעוברים והקיבול בין על המוליכים.
+ המשוואה היא
+\begin_inset Formula 
+\[
+I=I_{c}\sin\phi+\frac{V}{R}+C\frac{dV}{dt}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ואפשר לקבל משוואה מסדר שני בפאזה
+\begin_inset Formula 
+\[
+\ddot{\phi}+Q^{-1}\dot{\phi}+\sin\phi=\frac{I}{I_{c}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+כאשר הזמן הופך ל
+\begin_inset Formula 
+\[
+\tau=\omega_{p}t,\omega_{p}=\sqrt{\frac{2eI_{c}}{\hbar C}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ו
+\begin_inset Formula 
+\[
+Q=\omega_{p}RC
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+אפשר להתייחס באופן איכותי עם מודל לוח הכביסה המשופע.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+אם הקיבול קטן (חיכוך גדול) מקבלים
+\begin_inset Formula 
+\[
+\left\langle V\right\rangle =R\sqrt{I^{2}-I_{c}^{2}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+אם משדרים קרינה על הצומת בתדירות 
+\begin_inset Formula $\omega_{1}$
+\end_inset
+
+ מקבלים קפיצות במתח בגרף ה
+\begin_inset Formula $I-V$
+\end_inset
+
+ של
+\begin_inset Formula 
+\[
+V_{n}=\frac{n\hbar\omega_{1}}{2e}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+על מנת לקבל את האפקט המתח הבסיסי חייב להיות מהצורה
+\begin_inset Formula 
+\[
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ב
+\begin_inset Formula $squid$
+\end_inset
+
+ יש שני צמתי גוזפסון מחוברים.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+בגלל עניינים של תורת כיול במקום הפרש הפאזה משתמשים ב
+\begin_inset Formula 
+\[
+\gamma=\Delta\phi-\frac{2\pi}{\Phi_{0}}\int Ads
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ואז
+\begin_inset Formula 
+\[
+I_{s}=I_{c}\sin\gamma
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+נבצע אינטגרל על השדה במעגל הכולל את שני הצמתים,
+ שהוא שווה כמובן לשטף המגנטי,
+ ונקבל
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+\begin_inset Formula 
+\[
+\Phi=\oint Ads=\frac{\Phi_{0}}{2\pi}\int_{electrodes}\nabla\phi ds+\int_{links}Ads
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+שוב מכיוון שסכימת הפרשי הפאזה במעגל חייבת להיות כפולה שלמה של 
+\begin_inset Formula $2\pi$
+\end_inset
+
+,
+ נקבל שאנו נותריםן רק עם הפאזה באלקטרודות
+\begin_inset Formula 
+\[
+\gamma_{1}-\gamma_{2}=\frac{2\pi\Phi}{\Phi_{0}}\left(mod2\pi\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+הזרם המקסימלי הוא
+\begin_inset Formula 
+\[
+I_{m}=2I_{c}\left|\cos\frac{\pi\Phi}{\Phi_{0}}\right|
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+זה יוצר תבנית מחזורית בזרם.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ה
+\begin_inset Formula $squid$
+\end_inset
+
+ הוא ראשי תיבות של
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+super conducting quantum interference device
+\lang hebrew
+.
+ רואים את זה מכך שהזרם הנמדד זהה לתבנית התאבכות של שני סדקים באופטיקה.
+ במקרה הזה ההתאבכות היא של שני הזרמים
+\begin_inset Formula 
+\[
+I_{1}=I_{c}\sin\gamma_{1},I_{2}=I_{c}\sin\gamma_{2}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+המתח הנמדד הוא
+\begin_inset Formula 
+\[
+\left\langle V\right\rangle =\frac{R}{2}\sqrt{I^{2}-\left[2I_{c}\cos\frac{\pi\Phi}{\Phi_{0}}\right]^{2}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+ממשוואה זאת אנו רואים שבהינתן זרם,
+ המתח הנמדד מעיד ישירות על השטף.
+ השטף במעגל קובע את הפרשי הפאזה,
+ והם בתורם קובעים את הזרם,
+ שהוא קובע את המתח.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+יש גם את הנושא של
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+flux locked loop
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+שאיתו קובעים את נקודת העבודה במיקום בו השינוי של המתח לפי השטף מקסימלי.
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+דוגם
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+מגעים:
+ שיטה בה בעזרת ארבעה מגעים,
+ שניים המעבירים זרם ושניים המודדים מתח אפשר למדוד מתח בדיוק גבוה יותר עם הורדת מפל המתח על המגעים.
+\begin_inset Formula 
+\[
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+מאמר של 
+\begin_inset Formula $YBCO$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+o Superconductivity at 93 K in a new mixed-phase Y-Ba-Cu-O compound system at ambient pressure
+\end_layout
+
+\begin_layout Standard
+o http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.58.908
+\end_layout
+
+\begin_layout Standard
+
+\lang hebrew
+צריך מאמר של 
+\begin_inset Formula $IV$
+\end_inset
+
+ של צומת גוזפסון.
+\end_layout
+
+\end_body
+\end_document
