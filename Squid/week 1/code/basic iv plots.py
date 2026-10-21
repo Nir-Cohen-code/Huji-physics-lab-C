@@ -16,7 +16,7 @@ df2 = pd.read_csv(p+"iv cooled xy flipped.csv",header=None, usecols=[3, 4, 9, 10
 df3 = pd.read_csv(p+"iv cooled more xy flipped.csv",header=None, usecols=[3, 4, 9, 10])
 
 window=10
-
+#bla 
 I_hot=df1[4].rolling(window=window).mean()
 V_hot=df1[10].rolling(window=window).mean()
 
