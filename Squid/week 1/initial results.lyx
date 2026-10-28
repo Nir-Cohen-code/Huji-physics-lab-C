@@ -1,5 +1,5 @@
-#LyX 2.4 created this file. For more info see https://www.lyx.org/
-\lyxformat 620
+#LyX 2.5 created this file. For more info see https://www.lyx.org/
+\lyxformat 643
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -54,11 +54,19 @@
 \use_indices false
 \paperorientation portrait
 \suppress_date false
-\justification true
-\use_refstyle 1
+\justification default
+\crossref_package refstyle
 \use_formatted_ref 0
 \use_minted 0
 \use_lineno 0
+\backgroundcolor none
+\fontcolor none
+\notefontcolor lightgray
+\boxbgcolor red
+\table_border_color default
+\table_odd_row_color default
+\table_even_row_color default
+\table_alt_row_colors_start 1
 \index Index
 \shortcut idx
 \color #008080
@@ -88,6 +96,7 @@
 \html_be_strict false
 \docbook_table_output 0
 \docbook_mathml_prefix 1
+\docbook_mathml_version 0
 \html_math_img_scale 1.1
 \end_header
 
@@ -149,7 +158,7 @@ SQUID
 \begin_layout Plain Layout
 \align center
 שמות:
- ליאנה צאגין וניר כהן 
+ ליאנה צ׳גין וניר כהן 
 \end_layout
 
 \begin_layout Plain Layout
@@ -158,7 +167,6 @@ SQUID
 status open
 
 \begin_layout Plain Layout
-
 
 \backslash
 today
@@ -292,6 +300,207 @@ status open
 
 \end_inset
 
+
+\end_layout
+
+\end_inset
+
+
+\series bold
+\shape smallcaps
+\size larger
+מפגש
+\family roman
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\emph default
+\numeric on
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement document
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Preview
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Shapiro fig.png
+	lyxscale 50
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+מדרגות שפירו בגרף של המתח כתלות בזרם,
+ תחת שדה חיצוני בתדירות
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\nospellcheck default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+44GHz
+\lang hebrew
+.
+ בין מדרגות סמוכות התקבל הפרש ממוצע 
+\begin_inset Formula $\Delta V=91.8\pm0.7\mu V$
+\end_inset
+
+.
+ חולץ קבוע ג'וזפסון 
+\begin_inset Formula $K_{J}=\frac{2e}{h}=0.479\pm0.004GHz/\mu V$
+\end_inset
+
+,
+ לעומת הקבוע הספרותי 
+\begin_inset Formula $K_{J,Lit}=0.484GHz/\mu V$
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement document
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename magnet fig.png
+	lyxscale 50
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+הזרם הקריטי המנורמל לפי הזרם הקריטי המקסימלי,
+ כתלות במיקום מגנט המוצב ליד ה-
+\lang english
+SQUID
+\lang hebrew
+.
+ ניתן לראות תלות מחזורית בקירוב.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement document
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 3D fig.png
+	scale 60
+	BoundingBox 150bp 0bp 900bp 700bp
+	clip
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+המתח כתלות בזרם ובמיקום המגנט.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
 
 \end_layout
 
